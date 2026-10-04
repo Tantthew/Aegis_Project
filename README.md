@@ -78,7 +78,7 @@ Both commands should print a version number of **17 or higher**. If either one f
 Either clone it:
 
 ```
-git clone <your-repository-url>
+git clone https://github.com/Tantthew/Aegis_Project.git
 cd aegis-prototype
 ```
 
