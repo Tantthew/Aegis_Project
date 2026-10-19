@@ -97,7 +97,7 @@ public class AegisShowcase {
     static final int WIDTH = 76;
     static boolean pauseBetweenParts = false;
     /** Set to true if you want a plain Run (no arguments) to open the window instead of the text tour. */
-    static final boolean GUI_BY_DEFAULT = false;
+    static final boolean GUI_BY_DEFAULT = true;
 
     static final BufferedReader STDIN = new BufferedReader(new InputStreamReader(System.in));
 
